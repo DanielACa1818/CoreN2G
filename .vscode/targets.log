@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Aug 23 18:04:01 2022
+# Make data base, printed on Tue Aug 23 19:07:49 2022
 
 # Variables
 
@@ -53,7 +53,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_CWD = C:\Users\Koolb\AppData\Local\Programs\Microsoft VS Code
+VSCODE_CWD = C:\Windows\system32
 # default
 MAKE_HOST := x86_64-w64-mingw32
 # environment
@@ -278,6 +278,6 @@ GNUmakefile:
 # strcache performance: lookups = 22 / hit rate = 9%
 # hash-table stats:
 # Load=20/8192=0%, Rehash=0, Collisions=1/22=5%
-# Finished Make data base on Tue Aug 23 18:04:01 2022
+# Finished Make data base on Tue Aug 23 19:07:49 2022
 
  
