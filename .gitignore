@@ -27,6 +27,7 @@
 #*.lib
 
 # Misc
+/.vscode/
 /.settings/
 /Documentation/html
 /Documentation/latex
