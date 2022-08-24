@@ -60,4 +60,6 @@
 #define SWDIO_PIN PA_13
 #define SWCLK_PIN PA_14
 
+#define STM32F446 1
+
 
