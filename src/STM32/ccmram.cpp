@@ -1,5 +1,5 @@
 #include "CoreImp.h"
-#if 0
+#if !STM32F446
 extern char _sccmram;					// defined in linker script
 extern char _eccmram;					// defined in linker script
 extern char _ccmramend;					// defined in linker script
